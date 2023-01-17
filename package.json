@@ -1,0 +1,8 @@
+{
+  "name": "js-w4jkad",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
